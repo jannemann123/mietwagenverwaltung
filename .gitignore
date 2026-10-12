@@ -1,0 +1,15 @@
+
+# Local development and credentials
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+.idea/
+__pycache__/
+*.pyc
+*.log
+data/
+build/
+.venv/
